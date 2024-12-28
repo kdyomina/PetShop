@@ -26,7 +26,7 @@ input.search {
   padding-left: 15px;
 }
 input.submit {
-  background: url(img/Shape.png) center center/50% auto
+  background: url(./Shape.png) center center/50% auto
     no-repeat rgb(112, 93, 63);
   border: 0;
   width: 47px;
